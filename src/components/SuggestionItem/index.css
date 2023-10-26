@@ -1,0 +1,27 @@
+.list-element {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  margin-top: 0px;
+}
+
+.suggestion {
+  margin-top: 0px;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.arrow {
+  height: 20px;
+  margin-top: 0px;
+  padding-right: 6%;
+}
+.button {
+  border-width: 0px;
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
